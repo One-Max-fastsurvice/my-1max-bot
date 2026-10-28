@@ -20,7 +20,7 @@ OWNER_ID = 7375899145
 
 # ဒီနေရာမှာ သင့် Render က ပေးထားတဲ့ URL ကို ထည့်ပါ (ဥပမာ: "https://my-1max-bot.onrender.com")
 # Deploy လုပ်ပြီး URL ရမှ ဒီနေရာမှာ ပြန်ပြင်ပါ။ ခဏတာ ဒီအတိုင်းထားပါ။
-RENDER_URL = "https://your-app-name.onrender.com" 
+RENDER_URL = "https://my-1max-bot-1.onrender.com" 
 
 logging.basicConfig(level=logging.INFO)
 log = logging.getLogger("bot")
